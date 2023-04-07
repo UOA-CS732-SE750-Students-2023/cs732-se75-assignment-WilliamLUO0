@@ -1,4 +1,5 @@
 # COMPSCI732 TECH DEMO--Frontend framework: Vue
+Tech demo video: https://drive.google.com/file/d/1rWTJeNjhCyFvZXUCW4nUAtONL7EfHjir/view?usp=sharing
 
 ## \vue-demo01\ is the simple demo and blog demo 
 A simple demo for state management and routing
